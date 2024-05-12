@@ -1,0 +1,39 @@
+{
+    "CardId": 562176850657349,
+    "Title": null,
+    "HSK3Level": 1,
+    "TitleEnglish": null,
+    "TitlePinyin": null,
+    "CardType": "E",
+    "AType": "Choose_C-I",
+    "Asset": {
+        "Data": {
+            "Word": "A: 你姐姐在家吗？ \n B: 在，她在家。",
+            "Audio": "",
+            "Answer": "h2/在家里_1.jpg",
+            "Options": [
+                "去商店.jpg",
+                "h1/图书馆.jpg",
+                "h4/餐厅.jpg",
+                "h2/在家里_1.jpg"
+            ],
+            "Newwords": "A: 你姐姐在家吗？ \n B: 在，她在家。",
+            "BaseUrl": "https://wisbokstorage.blob.core.windows.net/medias/images"
+        },
+        "Type": "Choose_C-I",
+        "Enabled": true
+    },
+    "Stars": 0,
+    "UserStar": null,
+    "Likes": 0,
+    "UserLike": null,
+    "Clicks": 0,
+    "Finish": 0,
+    "Review": 0,
+    "Tags": [
+    ],
+    "Medias": [
+    ],
+    "Samples": [
+    ]
+}

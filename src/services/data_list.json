@@ -1,0 +1,725 @@
+{
+    "total": 298,
+    "rows": [
+        {
+            "CardId": 562176850657349,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "A: 你姐姐在家吗？ \n B: 在，她在家。",
+                    "Audio": "",
+                    "Answer": "h2/在家里_1.jpg",
+                    "Options": [
+                        "h4/餐厅.jpg",
+                        "去商店.jpg",
+                        "h1/图书馆.jpg",
+                        "h2/在家里_1.jpg"
+                    ],
+                    "Newwords": "A: 你姐姐在家吗？ \n B: 在，她在家。"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715087007,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562176846676037,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "她去学校。",
+                    "Audio": "",
+                    "Answer": "她去学校.jpg",
+                    "Options": [
+                        "她去学校.jpg",
+                        "h4/餐厅.jpg",
+                        "去商店.jpg",
+                        "h2/在家里_1.jpg"
+                    ],
+                    "Newwords": "她去学校。"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715087006,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562176843800645,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "他姐姐在家吗？",
+                    "Audio": "",
+                    "Answer": "h2/在家里_1.jpg",
+                    "Options": [
+                        "h4/餐厅.jpg",
+                        "去商店.jpg",
+                        "h1/图书馆.jpg",
+                        "h2/在家里_1.jpg"
+                    ],
+                    "Newwords": "他姐姐在家吗？"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715087006,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562176840233029,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "老师去学校。",
+                    "Audio": "",
+                    "Answer": "妈妈去学校.jpg",
+                    "Options": [
+                        "妈妈去学校.jpg",
+                        "h4/餐厅.jpg",
+                        "去商店.jpg",
+                        "h1/图书馆.jpg"
+                    ],
+                    "Newwords": "老师去学校。"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715087005,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562176838570053,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "我们去学校。",
+                    "Audio": "",
+                    "Answer": "学校001.jpg",
+                    "Options": [
+                        "学校001.jpg",
+                        "h4/餐厅.jpg",
+                        "去商店.jpg",
+                        "h1/图书馆.jpg"
+                    ],
+                    "Newwords": "我们去学校。"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715087004,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562176362442821,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "A: 这是谁的鱼？ \n B: 这是妈妈的鱼。",
+                    "Audio": "",
+                    "Answer": "h2/做熟的鱼.jpg",
+                    "Options": [
+                        "牛奶010.png",
+                        "h2/做熟的鱼.jpg",
+                        "h3/面包.jpg",
+                        "鸡蛋011.jpeg"
+                    ],
+                    "Newwords": "A: 这是谁的鱼？ \n B: 这是妈妈的鱼。"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715086888,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562146380279877,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "九月二号是星期几？",
+                    "Audio": "",
+                    "Answer": "Y1/9月2号.jpg",
+                    "Options": [
+                        "Y1/10月2号.jpeg",
+                        "Y1/4月2号.jpg",
+                        "Y1/10月1号.jpg",
+                        "Y1/9月2号.jpg"
+                    ],
+                    "Newwords": "九月二号是星期几？"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715080086,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562146378395717,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "A: 你的生日是几月几号？ \n B: 我的生日是4月3号。",
+                    "Audio": "",
+                    "Answer": "Y1/4月3号.jpg",
+                    "Options": [
+                        "Y1/10月2号.jpeg",
+                        "Y1/4月2号.jpg",
+                        "Y1/4月3号.jpg",
+                        "Y1/3月1号.jpg"
+                    ],
+                    "Newwords": "A: 你的生日是几月几号？ \n B: 我的生日是4月3号。"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715080086,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562146376618053,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "十月一号是星期几？",
+                    "Audio": "",
+                    "Answer": "Y1/10月1号.jpg",
+                    "Options": [
+                        "Y1/10月2号.jpeg",
+                        "Y1/4月2号.jpg",
+                        "Y1/10月1号.jpg",
+                        "Y1/3月1号.jpg"
+                    ],
+                    "Newwords": "十月一号是星期几？"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715080085,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562146374111301,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "A: 今天是星期几？ \n B: 今天是星期六。 \n A: 明天是星期天，哥哥喜欢星期天。",
+                    "Audio": "",
+                    "Answer": "Y1/星期日.jpg",
+                    "Options": [
+                        "Y1/星期三.jpg",
+                        "Y1/星期四.jpg",
+                        "Y1/星期五.jpg",
+                        "Y1/星期日.jpg"
+                    ],
+                    "Newwords": "A: 今天是星期几？ \n B: 今天是星期六。 \n A: 明天是星期天，哥哥喜欢星期天。"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715080085,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562146372427845,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "A: 今天是星期几？ \n B: 今天是星期二。 \n A: 明天是星期三，妈妈星期三去商店。",
+                    "Audio": "",
+                    "Answer": "Y1/星期三.jpg",
+                    "Options": [
+                        "Y1/星期三.jpg",
+                        "Y1/星期四.jpg",
+                        "Y1/星期五.jpg",
+                        "Y1/星期日.jpg"
+                    ],
+                    "Newwords": "A: 今天是星期几？ \n B: 今天是星期二。 \n A: 明天是星期三，妈妈星期三去商店。"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715080084,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562067960750149,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "A: 那是谁的帽子？ \n B: 那是妹妹的帽子。",
+                    "Audio": "",
+                    "Answer": "妹妹的帽子.jpg",
+                    "Options": [
+                        "h4/袜子.jpg",
+                        "妹妹的帽子.jpg",
+                        "h3/裙子-衣服.jpg",
+                        "h1/鞋.jpg"
+                    ],
+                    "Newwords": "A: 那是谁的帽子？ \n B: 那是妹妹的帽子。"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715086888,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562067958607941,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "那是谁的牛奶？",
+                    "Audio": "",
+                    "Answer": "牛奶010.png",
+                    "Options": [
+                        "面条很长.jpg",
+                        "牛奶010.png",
+                        "h3/面包.jpg",
+                        "苹果001.jpg"
+                    ],
+                    "Newwords": "那是谁的牛奶？"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715086887,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562067956568133,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "A: 这是谁的鱼？ \n B: 这是爸爸的鱼。",
+                    "Audio": "",
+                    "Answer": "爸爸的鱼.jpg",
+                    "Options": [
+                        "h3/吃面-面条.jpg",
+                        "爸爸的鱼.jpg",
+                        "h3/面包.jpg",
+                        "苹果001.jpg"
+                    ],
+                    "Newwords": "A: 这是谁的鱼？ \n B: 这是爸爸的鱼。"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715086887,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562060176478277,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "Y1/喜欢吃面条.jpg",
+                    "Audio": "",
+                    "Answer": "Y1/喜欢吃面条.jpg",
+                    "Options": [
+                        "Y1/喝橙汁.webp",
+                        "Y1/喜欢吃面条.jpg",
+                        "Y1/喝水.jpg",
+                        "h2/喝牛奶.jpg"
+                    ],
+                    "Newwords": "老师吃什么？"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715079484,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562060174651461,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "你喜欢吃苹果。",
+                    "Audio": "",
+                    "Answer": "h1/苹果.jpg",
+                    "Options": [
+                        "h2/米饭.jpg",
+                        "牛奶010.png",
+                        "h1/苹果.jpg",
+                        "h1/菜.jpg"
+                    ],
+                    "Newwords": "你喜欢吃苹果。"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715079484,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562060172947525,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "你们喜欢吃面条。",
+                    "Audio": "",
+                    "Answer": "Y1/我们喜欢吃面条.jpg",
+                    "Options": [
+                        "Y1/我们喜欢吃面条.jpg",
+                        "Y1/不喜欢吃面条.jpg",
+                        "Y1/喜欢吃面条.jpg",
+                        "Y1/不爱吃面条.jpg"
+                    ],
+                    "Newwords": "你们喜欢吃面条。"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715079483,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562060171190341,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "妈妈爱吃面条。",
+                    "Audio": "",
+                    "Answer": "Y1/吃面条.jpg",
+                    "Options": [
+                        "Y1/不爱吃面条.jpg",
+                        "Y1/吃米饭.jpeg",
+                        "Y1/吃鱼.jpeg",
+                        "Y1/吃面条.jpg"
+                    ],
+                    "Newwords": "妈妈爱吃面条。"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715079482,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562060169318469,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "A: 牛奶和水，她喝哪个？ \n B: 她喝牛奶。",
+                    "Audio": "",
+                    "Answer": "h2/喝牛奶.jpg",
+                    "Options": [
+                        "Y1/喝橙汁.webp",
+                        "h2/喝牛奶.jpg",
+                        "Y1/喝水.jpg",
+                        "Y1/吃苹果.webp"
+                    ],
+                    "Newwords": "A: 牛奶和水，她喝哪个？ \n B: 她喝牛奶。"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715079482,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        },
+        {
+            "CardId": 562059684970565,
+            "Type": "E",
+            "HSK3Level": 1,
+            "Title": null,
+            "TitleEnglish": null,
+            "TitlePinyin": null,
+            "AType": "Choose_C-I",
+            "Asset": {
+                "Data": {
+                    "Word": "A: 爸爸，现在是几点？ \n B: 11点40分。",
+                    "Audio": "",
+                    "Answer": "Y1/11点40.jpeg",
+                    "Options": [
+                        "Y1/8点30.jpeg",
+                        "Y1/2点50分.jpeg",
+                        "Y1/5点20分.jpeg",
+                        "Y1/11点40.jpeg"
+                    ],
+                    "Newwords": "A: 爸爸，现在是几点？ \n B: 11点40分。"
+                },
+                "Type": "Choose_C-I",
+                "Enabled": true
+            },
+            "Stars": 0,
+            "Likes": 0,
+            "Clicks": 0,
+            "Finish": 0,
+            "Review": 0,
+            "EditDate": 1715079417,
+            "EditUser": 10035,
+            "EditUserName": "DashSpeed",
+            "ReviewStatus": 0,
+            "ReviewUser": null,
+            "ReviewUserName": null
+        }
+    ]
+}
